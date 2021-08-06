@@ -6,7 +6,7 @@ I'll add more of each until I get a job.
 
 <b>Implementations</b>
 
-https://github.com/redonovan/WaveNet
+<a href=https://github.com/redonovan/WaveNet>WaveNet</a>
 
 
 <b>Research</b>

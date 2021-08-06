@@ -1,8 +1,17 @@
 Hi, I'm Rob Donovan.
 
-I created this account to host my Deep Learning implementations and research while I look for a new job.
+I created this account to host my Deep Learning implementations and research projects while I look for a new job.<BR>
+I'll add more of each until I get a job.
 
 
+<b>Implementations</b>
+
+https://github.com/redonovan/WaveNet
+
+
+<b>Research</b>
+
+None yet.
 
 
 <!---

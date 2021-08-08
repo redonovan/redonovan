@@ -6,6 +6,7 @@ I'll add more of each until I get a job.
 
 <b>Implementations</b>
 
+<a href=https://github.com/redonovan/Transformer-Encoder>Transformer Encoder</a>
 <a href=https://github.com/redonovan/WaveNet>WaveNet</a>
 
 

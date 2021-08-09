@@ -12,8 +12,9 @@ I'll add more of each until I get a job.
 
 <b>Research</b>
 
-None yet.
+<a href=https://github.com/redonovan/Embedding-Scaling>Embedding Scaling</a><BR>
 
+  
 
 <!---
 robert-donovan-phd/robert-donovan-phd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

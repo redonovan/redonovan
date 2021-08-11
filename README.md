@@ -12,7 +12,7 @@ I'll add more of each until I get a job.
 
 <b>Research</b>
 
-<a href=https://github.com/redonovan/Embedding-Scaling>Embedding Scaling</a><BR>
+<a href=https://github.com/redonovan/Transformer-Embedding-Scaling>Transformer Embedding Scaling</a><BR>
 
   
 

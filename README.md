@@ -7,7 +7,7 @@ I'll add more of each until I get a job.
 <b>Implementations</b>
 
 <a href=https://github.com/redonovan/Transformer-Encoder>Transformer Encoder</a><BR>
-<a href=https://github.com/redonovan/Listen-Attend-Spell>Listen, Attend and Spell</a><BR>
+<a href=https://github.com/redonovan/Listen-Attend-Spell>Listen Attend Spell</a><BR>
 <a href=https://github.com/redonovan/WaveNet>WaveNet</a>
 
 

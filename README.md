@@ -8,9 +8,11 @@ I'll add more of each until I get a job.
 
 <a href=https://github.com/redonovan/Transformer-Encoder>Transformer Encoder</a><BR>
 <a href=https://github.com/redonovan/Listen-Attend-Spell>Listen Attend Spell</a><BR>
-<a href=https://github.com/redonovan/WaveNet>WaveNet</a>
+<a href=https://github.com/redonovan/WaveNet>WaveNet</a><BR>
+<a href=https://github.com/redonovan/VAE>VAE</a>
 
 
+  
 <b>Research</b>
 
 <a href=https://github.com/redonovan/Transformer-Embedding-Scaling>Transformer Embedding Scaling</a><BR>

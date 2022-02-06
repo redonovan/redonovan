@@ -10,6 +10,7 @@ I'll add more of each until I get a job.
 <a href=https://github.com/redonovan/Listen-Attend-Spell>Listen Attend Spell</a><BR>
 <a href=https://github.com/redonovan/WaveNet>WaveNet</a><BR>
 <a href=https://github.com/redonovan/VAE>VAE</a>
+<a href=https://github.com/redonovan/Partial-VAE>Partial VAE</a>
 
 
   

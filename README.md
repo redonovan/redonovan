@@ -1,7 +1,6 @@
 Hi, I'm Rob Donovan.
 
-I created this account to host my Deep Learning implementations and research while I look for a new job.<BR>
-I'll add more of each until I get a job.
+I created this account to host my Deep Learning implementations and research while I looked for a new job.<BR>
 
 
 <b>Implementations</b>

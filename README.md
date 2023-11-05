@@ -5,6 +5,7 @@ I created this account to host my Deep Learning implementations and research whi
 
 <b>Implementations</b>
 
+<a href=https://github.com/redonovan/GNN>GNN</a><BR>
 <a href=https://github.com/redonovan/Multi-GPU-Training-On-AWS>Multi-GPU Training On AWS</a><BR>
 <a href=https://github.com/redonovan/ResNet>ResNet</a><BR>
 <a href=https://github.com/redonovan/Partial-VAE>Partial VAE</a><BR>
